@@ -1,2 +1,2 @@
 # testfonctionnementrepo
-créer un dossier ( ripo ) sur Github
+créer un dossier ( repo ) sur Github
